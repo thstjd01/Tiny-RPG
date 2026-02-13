@@ -2,19 +2,21 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Weapon
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Object
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Player
+  - Menu
+  - Weapon
   - 
   - 
   - 
@@ -41,3 +43,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: New Layer 1
+    uniqueID: 2219044053
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3236997169
+    locked: 0
+  - name: Object
+    uniqueID: 1185499167
+    locked: 0
+  - name: Water
+    uniqueID: 1046723835
+    locked: 0
+  - name: UI
+    uniqueID: 2463813283
+    locked: 0
+  - name: Enemy
+    uniqueID: 1598309955
+    locked: 0
+  - name: Player
+    uniqueID: 893482033
+    locked: 0
+  - name: Menu
+    uniqueID: 2773373785
+    locked: 0
+  - name: Weapon
+    uniqueID: 1413332269
+    locked: 0
+  m_RenderingLayers:
+  - Default
